@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ss_0000s_0002_shuzhi",
+    "texture": "8c8ff36c-8b69-4340-86ef-eda8a915938c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      149,
+      150
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      150,
+      150
+    ]
+  }
+}

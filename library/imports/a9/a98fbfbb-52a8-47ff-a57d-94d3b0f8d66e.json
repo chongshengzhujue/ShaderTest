@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ss_0000s_0003_paodapheng",
+    "texture": "9389d088-d617-44d0-bc85-ed45bc54db0f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      172
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      172
+    ]
+  }
+}
